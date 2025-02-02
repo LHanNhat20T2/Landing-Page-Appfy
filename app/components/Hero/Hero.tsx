@@ -28,10 +28,7 @@ const Hero = () => {
                             Lorem ipsum dolor sit amet consectetur adipisicing
                             elit. Distinctio soluta consequatur rerum voluptatem
                             aliquid tempore at nihil omnis quos officiis
-                            expedita sapiente repellendus vero, facilis fuga
-                            dignissimos numquam minus debitis a, aut modi? Amet
-                            illo reprehenderit magnam cum, nulla harum similique
-                            iure ipsa hic laboriosam.
+                            expedita sapiente repellendus vero
                         </p>
                         {/* play store and app store image */}
                         <div className="flex mt-8 mb-8 items-center space-x-4">
